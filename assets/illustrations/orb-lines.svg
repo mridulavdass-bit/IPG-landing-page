@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="orb-lines" viewBox="0 0 900 460" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+  <line x1="220" y1="120" x2="450" y2="230" stroke="#0061e3" stroke-width="1.5"/>
+  <line x1="680" y1="120" x2="450" y2="230" stroke="#0061e3" stroke-width="1.5"/>
+  <line x1="220" y1="340" x2="450" y2="230" stroke="#0061e3" stroke-width="1.5"/>
+  <line x1="680" y1="340" x2="450" y2="230" stroke="#0061e3" stroke-width="1.5"/>
+</svg>
