@@ -1,0 +1,12 @@
+{
+  "name": "IPG-landing-page",
+  "private": true,
+  "version": "1.0.0",
+  "description": "PayGlocal international payment gateway landing page (static single-file site)",
+  "scripts": {
+    "dev": "npx serve . -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
